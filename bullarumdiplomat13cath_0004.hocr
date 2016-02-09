@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bullarumdiplomat13cath_0004.png"; bbox 0 0 2279 3270; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 590 1494 1694 1775">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 590 1494 1694 1775">
+     <span class='ocr_line' id='line_1_1' title="bbox 590 1494 1694 1569; baseline 0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 590 1494 883 1569; x_wconf 62' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 914 1494 990 1569; x_wconf 83' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 1016 1494 1121 1554; x_wconf 75' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1155 1494 1411 1554; x_wconf 71' lang='lat' dir='ltr'>{memet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1436 1494 1694 1554; x_wconf 74' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 703 1597 1576 1672; baseline 0 -17"><span class='ocrx_word' id='word_1_6' title='bbox 703 1597 754 1655; x_wconf 82' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 785 1599 953 1657; x_wconf 81' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 981 1597 1115 1657; x_wconf 74' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1144 1597 1398 1672; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1426 1597 1576 1657; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 787 1700 1497 1775; baseline 0 -15"><span class='ocrx_word' id='word_1_11' title='bbox 787 1700 1124 1775; x_wconf 78' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 1152 1700 1213 1760; x_wconf 81' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 1238 1700 1497 1760; x_wconf 79' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 202 3023 2078 3098">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 202 3023 2078 3098">
+     <span class='ocr_line' id='line_1_4' title="bbox 202 3023 2078 3098; baseline 0.001 -17"><span class='ocrx_word' id='word_1_14' title='bbox 202 3023 2078 3098; x_wconf 65' lang='lat' dir='ltr'>http:llwwwflrchive.0r9ldetailslbullarumdiplomafflScath</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
