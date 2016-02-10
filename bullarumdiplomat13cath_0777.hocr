@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bullarumdiplomat13cath_0777.png"; bbox 0 0 2269 3235; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 757 1271 1625 1399">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 757 1343 852 1380">
+     <span class='ocr_line' id='line_1_1' title="bbox 757 1343 852 1380; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 757 1343 852 1380; x_wconf 61' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 858 1271 1563 1398">
+     <span class='ocr_line' id='line_1_2' title="bbox 858 1271 944 1382; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 858 1271 944 1382; x_wconf 60' lang='lat' dir='ltr'><strong>mu</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 935 1273 973 1383; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 935 1273 973 1383; x_wconf 83' lang='grc' dir='ltr'><strong>ΟΞ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1046 1275 1157 1388; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 1046 1275 1157 1388; x_wconf 55' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1161 1278 1245 1389; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 1161 1278 1245 1389; x_wconf 56' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1222 1279 1278 1391; textangle 180"><span class='ocrx_word' id='word_1_6' title='bbox 1222 1279 1278 1391; x_wconf 76' lang='lat'><strong>01.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1259 1281 1323 1391; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 1259 1281 1323 1391; x_wconf 71' lang='grc' dir='ltr'><strong>ΝΗ-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1309 1281 1394 1392; textangle 180"><span class='ocrx_word' id='word_1_8' title='bbox 1309 1281 1394 1392; x_wconf 56' lang='grc' dir='ltr'><em>ἓ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1376 1282 1433 1395; textangle 180"><span class='ocrx_word' id='word_1_9' title='bbox 1376 1282 1433 1395; x_wconf 62' lang='lat' dir='ltr'><strong>ffl0</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 1432 1284 1495 1397; textangle 180"><span class='ocrx_word' id='word_1_10' title='bbox 1432 1284 1495 1397; x_wconf 47' lang='lat' dir='ltr'><strong>ma</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 1499 1363 1563 1398; textangle 180"><span class='ocrx_word' id='word_1_11' title='bbox 1499 1363 1563 1398; x_wconf 68' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1568 1364 1625 1399">
+     <span class='ocr_line' id='line_1_12' title="bbox 1568 1364 1625 1399; textangle 180"><span class='ocrx_word' id='word_1_12' title='bbox 1568 1364 1625 1399; x_wconf 65' lang='lat' dir='ltr'>fl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2269 3235">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2269 3235">
+     <span class='ocr_line' id='line_1_13' title="bbox 0 0 2269 3235; textangle 180"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2269 3235; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
